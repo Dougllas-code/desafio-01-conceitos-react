@@ -14,7 +14,7 @@
 
 ## Implementação
 
-A ideia do projeto é colocar em prática o conceito básicos do React de mudança de estado, em um projeto de criação de tarefas.
+A ideia do projeto é colocar em prática o conceito básicos do React de mudança de estado, em uma aplicação de criação de tarefas.
 
 ## Funcionalidades
 
